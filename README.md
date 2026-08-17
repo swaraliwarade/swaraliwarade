@@ -63,79 +63,32 @@ I'm also a big fan of **hackathons**, because there's something incredibly satis
 </div>
 
 ---
-
-# 🚀 Things I've Built
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI Resume Roaster
-
-An AI-powered resume analysis application designed to provide actionable feedback and help improve resumes.
-
-**Stack**
-
-`React` `Node.js` `Express` `AI` `Supabase`
-
-</td>
-
-<td width="50%">
-
-### ⚡ VoltEZ
-
-An EV charging platform designed around making EV charging more accessible through a connected marketplace.
-
-**Stack**
-
-`Next.js` `TypeScript` `Django` `FastAPI` `PostgreSQL` `PostGIS`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌱 Roots & Routes
-
-A community-focused platform for documenting local memories and issues through an interactive map.
-
-**Stack**
-
-`React` `Node.js` `Supabase` `Leaflet.js` `OpenStreetMap`
-
-</td>
-
-<td width="50%">
-
-### 📈 More Projects
-
-From AI experiments and data applications to hackathon prototypes, I'm constantly experimenting with new ideas.
-
-**Currently:** building → learning → breaking → rebuilding.
-
-</td>
-</tr>
-</table>
-
----
-
-# 🏆 Hackathons & Highlights
+# 🚀 Featured Projects
 
 <div align="center">
 
-### 🥇 TOP 16 FINALIST
-
-**HackAgentAIx 2026 — University of Essex**
-
-Out of **2000+ registered teams**
+|           Project          | What it does                                                                                                             | Tech                                      |
+| :------------------------: | :----------------------------------------------------------------------------------------------------------------------- | :---------------------------------------- |
+|     🤖 **Boardroom AI**    | AI-powered virtual boardroom that simulates discussions and perspectives from different roles to help analyze decisions. | `AI` `Python` `Streamlit`                 |
+|  📄 **AI Resume Roaster**  | AI-powered resume analyzer that provides feedback, identifies weaknesses, and suggests improvements.                     | `React` `Node.js` `Express` `Supabase`    |
+| 🌐 **Developer Portfolio** | Personal portfolio showcasing my projects, skills, achievements, and journey as a developer.                             | `React` `Vite` `JavaScript`               |
+|  📚 **NGO Education App**  | A platform designed to support educational initiatives and make learning resources more accessible.                      | `React` `Node.js` `Supabase`              |
+|        ⚡ **VoltEZ**        | EV charging platform connecting EV users, charging stations, and service providers.                                      | `Next.js` `Django` `FastAPI` `PostgreSQL` |
+|    🌱 **Roots & Routes**   | Community platform for documenting local memories, stories, and issues through an interactive map.                       | `React` `Node.js` `Supabase` `Leaflet.js` |
 
 </div>
 
-<br>
+---
 
-> Hackathons have taught me that you don't need to know everything before starting.
-> You just need to be willing to figure things out.
+# 🏆 Hackathons & Achievements
+
+### 🥇 TOP 16 FINALIST — HackAgentAIx 2026
+
+**University of Essex**
+
+Selected among the **TOP 16 teams from 2000+ registered teams**.
+
+A great experience in building, experimenting, pitching, and working under a tight hackathon timeline.
 
 ---
 
@@ -143,9 +96,9 @@ Out of **2000+ registered teams**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=swaraliwarade&show_icons=true&hide_border=true&theme=transparent&title_color=9FE870&icon_color=9FE870&text_color=FFFFFF&bg_color=0B1020" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=swaraliwarade&show_icons=true&hide_border=true&theme=transparent&title_color=9FE870&icon_color=9FE870&text_color=FFFFFF&bg_color=0B1020" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaraliwarade&layout=compact&hide_border=true&theme=transparent&title_color=9FE870&text_color=FFFFFF&bg_color=0B1020" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaraliwarade&layout=compact&hide_border=true&theme=transparent&title_color=9FE870&text_color=FFFFFF&bg_color=0B1020" width="49%"/>
 
 </div>
 
@@ -155,17 +108,17 @@ Out of **2000+ registered teams**
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swaraliwarade&theme=dark&hide_border=true&background=0B1020&ring=9FE870&fire=9FE870&currStreakLabel=9FE870" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swaraliwarade&theme=dark&hide_border=true&background=0B1020&ring=9FE870&fire=9FE870&currStreakLabel=9FE870" width="70%"/>
 
 </div>
 
 ---
 
-# 🐍 My Contributions
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/swaraliwarade/swaraliwarade/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/swaraliwarade/swaraliwarade/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Snake"/>
 
 </div>
 
@@ -173,47 +126,25 @@ Out of **2000+ registered teams**
 
 # 🌱 Currently Learning
 
-```text
-┌────────────────────────────────────────────┐
-│                                            │
-│  🧠 Data Structures & Algorithms           │
-│  🤖 AI / Machine Learning                  │
-│  🌐 Full-Stack Development                 │
-│  ☁️  Backend & Cloud Technologies           │
-│  🏗️  Building Production-Ready Apps        │
-│                                            │
-└────────────────────────────────────────────┘
-```
+<div align="center">
+
+`DSA` · `AI/ML` · `Full-Stack Development` · `Backend Systems` · `Cloud` · `Production-Ready Applications`
+
+</div>
 
 ---
 
-# 💡 What I'm Interested In
-
-**Artificial Intelligence**
-Exploring practical applications of AI and AI-powered products.
-
-**Full-Stack Development**
-Building complete applications rather than just isolated frontend interfaces.
-
-**Problem Solving**
-Strengthening fundamentals through DSA, programming, and hands-on projects.
-
-**Building**
-If I have an idea, my first instinct is usually: *"Okay... how can I actually build this?"*
-
----
-
-# 📚 Learning Philosophy
+# 💭 My Approach
 
 <div align="center">
 
-### Don't just learn the technology.
-
-### **Build with it.**
+### **Curiosity → Experiment → Build → Break → Debug → Improve**
 
 <br>
 
-`Curiosity` → `Experiment` → `Build` → `Fail` → `Debug` → `Improve`
+I don't want to just learn technologies.
+
+### **I want to build with them. 🚀**
 
 </div>
 
@@ -224,29 +155,15 @@ If I have an idea, my first instinct is usually: *"Okay... how can I actually bu
 <div align="center">
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=9FE870"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0B1020?style=for-the-badge&logo=linkedin&logoColor=9FE870"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=9FE870"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-0B1020?style=for-the-badge&logo=gmail&logoColor=9FE870"/>
 </a>
 
 <br><br>
 
-**Always open to interesting projects, hackathons, collaborations, and conversations about technology.**
+⭐ **Thanks for visiting my profile!**
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=swaraliwarade&style=for-the-badge&color=9FE870&label=PROFILE+VIEWS"/>
-
-<br><br>
-
-<i>Thanks for stopping by! ⭐</i>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9FE870,50:102A43,100:0B1020&height=120&section=footer" width="100%"/>
