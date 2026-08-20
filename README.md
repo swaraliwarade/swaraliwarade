@@ -11,7 +11,7 @@
 <a href="https://github.com/swaraliwarade">
 <img src="https://img.shields.io/badge/GitHub-swaraliwarade-0B1020?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/swarali-warade">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0B1020?style=for-the-badge&logo=linkedin&logoColor=9FE870"/>
 </a>
 
@@ -63,6 +63,7 @@ I'm also a big fan of **hackathons**, because there's something incredibly satis
 </div>
 
 ---
+
 # 🚀 Featured Projects
 
 <div align="center">
@@ -114,16 +115,6 @@ A great experience in building, experimenting, pitching, and working under a tig
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/swaraliwarade/swaraliwarade/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Snake"/>
-
-</div>
-
----
-
 # 🌱 Currently Learning
 
 <div align="center">
@@ -154,11 +145,11 @@ I don't want to just learn technologies.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/swarali-warade">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0B1020?style=for-the-badge&logo=linkedin&logoColor=9FE870"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:swarayw24@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-0B1020?style=for-the-badge&logo=gmail&logoColor=9FE870"/>
 </a>
 
